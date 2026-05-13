@@ -106,11 +106,11 @@ Created an interactive dashboard containing:
 
 ## Dashboard Screenshot 1
 
-![Dashboard Output 1](images/dashboard_output_1.png)
+![Dashboard Output 1](Screenshot_1.png)
 
 ## Dashboard Screenshot 2
 
-![Dashboard Output 2](images/dashboard_output_2.png)
+![Dashboard Output 2](Screenshot_2.png)
 
 ---
 
