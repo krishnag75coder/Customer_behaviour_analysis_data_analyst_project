@@ -130,16 +130,20 @@ Created an interactive dashboard containing:
 ```bash
 git clone https://github.com/your-username/customer-behaviour-analysis.git
 ```
-Install Required Libraries
+- Install Required Libraries
+```bash
 pip install pandas numpy matplotlib seaborn sqlalchemy pyodbc
-Run Jupyter Notebook
-jupyter notebook
-Future Improvements
-Add Machine Learning models for customer prediction
-Deploy dashboard online
-Integrate real-time data pipeline
-Build recommendation system
-Author
+```
+- Run Jupyter Notebook
+- jupyter notebook
+# Future Improvements
+- Add Machine Learning models for customer prediction
+- Deploy dashboard online
+- Integrate real-time data pipeline
+- Build recommendation system
+
+
+## Author
 
 Krishna Gupta
 
